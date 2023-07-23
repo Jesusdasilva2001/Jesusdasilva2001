@@ -1,8 +1,8 @@
 ### Olá!!! Eu sou o Jesus Tamba 
 
-- 🔭 Hoje eu faço projeto tanto para front-end e back-end 
-- 🌱 Estudando Typescript, Javascript, HTML, CSS, NODEJS, JAVA, REACT
-- 😄 Pronouns: ele/dele
+- 🔭 Today I design both front-end and back-end
+- 🌱Studying Typescript, Javascript, HTML, CSS, NODEJS, JAVA, REACTJS, Golang, Tailwindcss
+- 😄 Pronouns: he/him
 
 <div>
   <a href="https://github.com/Jesusdasilva2001">
