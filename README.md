@@ -1,5 +1,5 @@
 ### Olá!!! I am Jesus 
 
-- 🔭 Today I design both front-end and back-end
-- 🌱Studying Typescript, Javascript, HTML, CSS, NODEJS, JAVA, REACTJS, Golang, Tailwindcss
+- 🔭 Computing Engineering
+- 🌱 Languague Tools: EJS, JavaScript, NodeJs, Docker, TypeScript, HTML, CSS, PostgreSQL, Arduino, C++
 - 😄 Pronouns: he/him
